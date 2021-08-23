@@ -15,7 +15,7 @@ Ans:
 
 # 交通工具(基底類別)
 class Transportation:
-    # 建構式，輪胎數量方法
+    # 建構式，輪胎數量屬性
     def __init__(self, number):
         self.NumberOfTires = number
     # 顏色方法
